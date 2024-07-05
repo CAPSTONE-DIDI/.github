@@ -16,7 +16,9 @@ DIDI는 [DID(decentralized identity, 탈중앙화 신원증명)](https://www.w3.
 
 ## 기획배경 및 목적
 
-## 시스템구성도
+## 시스템구성도 (투표시스템은 구성도는 아직 완성x)
+
+<img width="918" alt="image" src="https://github.com/CAPSTONE-DIDI/.github/assets/92563695/781f875d-3445-4aa7-af20-8811560ed945">
 
 ## Installation & Development
 
